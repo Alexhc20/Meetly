@@ -1,2 +1,2 @@
 # Meetly
-Meetly is your go-to app for bringing efficiency and organization to community events.
+Meetly is your go-to app for bringing efficiency and organization to community events. Whether you're planning a small gathering or a large conference, Meetly centralizes all your event details, making it easy to manage schedules, RSVPs, and communications. Say goodbye to scattered information and hello to a streamlined event planning experience that keeps everyone on the same page. With Meetly, organizing events has never been this effortless or efficient.
